@@ -20,9 +20,13 @@ Reference from kaggle: https://www.kaggle.com/datasets/navoneel/brain-mri-images
 
 # Requirements:
 Pandas
+
 Numpy
-Matplotlib 
+
+Matplotlib
+
 tensorflow 
+
 keras
 
 # programming languages:
